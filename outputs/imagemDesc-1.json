@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "d40c19c4-ecab-4ec7-94a3-93abfb714b58",
+    "content-length": "160",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a dog standing on its hind legs",
+      "confidence": 0.9577240943908691
+    },
+    "metadata": {
+      "width": 2184,
+      "height": 3000
+    }
+}

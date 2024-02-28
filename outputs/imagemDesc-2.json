@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "b7c249c5-2c87-401a-be32-904509135c2d",
+    "content-length": "153",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a red car driving on a road",
+      "confidence": 0.813134491443634
+    },
+    "metadata": {
+      "width": 715,
+      "height": 401
+    }
+}
