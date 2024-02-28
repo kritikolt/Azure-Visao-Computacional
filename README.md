@@ -30,7 +30,10 @@ Este guia irá orientá-lo através dos passos para criar um recurso de Serviço
 
 5. Selecione **Select as default resource**.
    > Observação: Se o seu recurso não estiver listado, você pode precisar atualizar a página.
+<img src="/Assets/default-resource.png">
 
 6. Feche a página de configurações selecionando o "x" no canto superior direito da tela.
 
 Seguindo esses passos, você configurará seu recurso de Serviços de IA do Azure e o conectará ao Vision Studio para capacidades de análise de imagem. Aproveite o uso do Azure AI Vision!
+
+A visão computacional está redefinindo os limites do que é possível com a análise de dados visuais, abrindo novas oportunidades de inovação e crescimento em diversos setores. Ao explorar as possibilidades oferecidas pela visão computacional, as organizações podem obter insights valiosos e impulsionar o progresso em direção a um futuro mais inteligente e conectado.
